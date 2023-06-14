@@ -1,0 +1,9 @@
+streamlit
+requests
+google-cloud-bigquery
+plotly
+pandas
+numpy
+watchdog
+db-dtypes
+pandas-gbq
